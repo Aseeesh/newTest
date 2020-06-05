@@ -57,9 +57,6 @@ C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\bin\Debug\netcoreapp3.1\Sw
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csprojAssemblyReference.cache
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.AssemblyInfoInputs.cache
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.AssemblyInfo.cs
-C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csproj.CoreCompileInputs.cache
-C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.RazorTargetAssemblyInfo.cache
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csproj.CopyComplete
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\staticwebassets\WebAPITest.StaticWebAssets.Manifest.cache
@@ -67,3 +64,6 @@ C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\st
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.dll
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.pdb
 C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.genruntimeconfig.cache
+C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\a\Desktop\Online Store\WebAPITest\WebAPITest\obj\Debug\netcoreapp3.1\WebAPITest.MvcApplicationPartsAssemblyInfo.cache
