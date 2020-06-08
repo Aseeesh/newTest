@@ -186,7 +186,7 @@ namespace WebAPITest.Controllers
             }
         }
 
-        [HttpGet("{CustomerId}/{Status}")]
+        [HttpGet("[action]/{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         public ActionResult<List<AccountItem>> GetById(int Id)
