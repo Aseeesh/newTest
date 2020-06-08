@@ -29,7 +29,7 @@ namespace WebAPITest.Controllers
                 Status = 1,
                   Vat = 1.2,
                 Total =122,
-                cart= new List<CartDto>
+                AccountCart= new List<CartDto>
                     {
                                   new  CartDto
                                   {
@@ -71,7 +71,7 @@ namespace WebAPITest.Controllers
         Status = 2,
           Vat = 1.2,
         Total =122,
-        cart= new List<CartDto>
+        AccountCart= new List<CartDto>
         {
                       new  CartDto
                       {
@@ -113,7 +113,7 @@ namespace WebAPITest.Controllers
         Status = 2,
           Vat = 1.2,
         Total =122,
-        cart= new List<CartDto>
+        AccountCart= new List<CartDto>
         {
                       new  CartDto
                       {
@@ -214,7 +214,7 @@ namespace WebAPITest.Controllers
         public int Status { get; set; }
         public double Vat { get; set; }
         public double Total { get; set; }
-        public List<CartDto> cart { get; set; }
+        public List<CartDto> AccountCart { get; set; }
     }
     public class CartDto
     {
