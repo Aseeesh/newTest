@@ -21,7 +21,7 @@ namespace WebAPITest.Controllers
                 Name = "Vegetables",
                 Title="Vegetables",
                 Description="Vegetables",
-                Image="https://cdn.britannica.com/17/196817-050-6A15DAC3/vegetables.jpg" 
+                Image="Images/ProductCategory/vegetables.jpg"
             },
             new ProductCategory
             {
@@ -29,7 +29,7 @@ namespace WebAPITest.Controllers
                 Name = "Fruits",
                 Title="Fruits",
                 Description="Fruits",
-                Image="https://jooinn.com/images/fresh-fruits-1.jpg"
+                Image="Images/ProductCategory/fresh-fruits-1.jpg"
             },
             new ProductCategory
             {
@@ -37,7 +37,7 @@ namespace WebAPITest.Controllers
                 Name = "Liquor",
                 Title="Liquor",
                 Description="Liquor",
-                Image="https://tjsliquor.com/files/2019/03/1552587960384_dl1.jpg"
+                Image="Images/ProductCategory/liquor.jpg"
             },
             new ProductCategory
             {
@@ -45,7 +45,7 @@ namespace WebAPITest.Controllers
                 Name = "Bakery",
                 Title="Bakery",
                 Description="Bakery",
-                Image="https://m.media-amazon.com/images/I/51J2zQiKxmL.jpg"
+                Image="Images/ProductCategory/bakery.jpg"
             }
 
 
